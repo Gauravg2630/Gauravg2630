@@ -8,15 +8,19 @@
   <a href="https://github.com/Gauravg2630" target="_blank">
     <img src="https://img.shields.io/github/followers/Gauravg2630?label=Follow&style=social" alt="GitHub Followers">
   </a>
+  <a href="https://twitter.com/your_twitter" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/your_twitter?style=social" alt="Twitter">
+  </a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 👨‍💻 I'm a passionate **Software Development** learner currently building real-world projects with **Full Stack Web Development + AI/ML + Data Analytics**.
-- 🔥 Currently diving deep into **#100DaysOfReact**, creating a new project every day using **React.js** and related tools.
-- 💡 I'm always exploring cutting-edge tech and integrating AI in web applications to build powerful solutions.
+- 👨‍💻 Passionate about **Software Development**, building **Full Stack Web Applications** with **AI/ML integration**.  
+- 🔥 Currently on **#100DaysOfReact**, building **1 project per day** using React.js.  
+- 💡 Exploring AI-powered solutions, web analytics, and full-stack optimization techniques.  
+- 🌱 Always learning new tools and frameworks to stay ahead in tech.
 
 ---
 
@@ -43,25 +47,23 @@
 
 ### 🚀 Featured Projects (30+ Repos)
 
-Here are some projects from my growing repository collection:
-
 #### 🔗 Full Stack & AI
-- [CodeAlpha_Projects](https://github.com/Gauravg2630/CodeAlpha_Projects) – Full stack + AI based projects built during internship
+- [CodeAlpha_Projects](https://github.com/Gauravg2630/CodeAlpha_Projects) – Full stack + AI based projects built during internship  
 
-#### ⚛️ React Projects (from #100DaysOfReact)
-- [React-admin-dashboard](https://github.com/Gauravg2630/React-admin-dashboard)
-- [React-job-portal-app](https://github.com/Gauravg2630/React-job-portal-app)
-- [React-e-commerce-store](https://github.com/Gauravg2630/React-e-commerce-store)
-- [React-news-app](https://github.com/Gauravg2630/React-news-app)
-- [React-ai-chat-bot-assistant](https://github.com/Gauravg2630/React-ai-chat-bot-assistant)
-- [React-quiz-app](https://github.com/Gauravg2630/React-quiz-app)
-- [React-weather-api-app](https://github.com/Gauravg2630/React-weather-api-app)
+#### ⚛️ React Projects (#100DaysOfReact)
+- [React-admin-dashboard](https://github.com/Gauravg2630/React-admin-dashboard)  
+- [React-job-portal-app](https://github.com/Gauravg2630/React-job-portal-app)  
+- [React-e-commerce-store](https://github.com/Gauravg2630/React-e-commerce-store)  
+- [React-news-app](https://github.com/Gauravg2630/React-news-app)  
+- [React-ai-chat-bot-assistant](https://github.com/Gauravg2630/React-ai-chat-bot-assistant)  
+- [React-quiz-app](https://github.com/Gauravg2630/React-quiz-app)  
+- [React-weather-api-app](https://github.com/Gauravg2630/React-weather-api-app)  
 
-➡️ And many more on my [GitHub Repositories »](https://github.com/Gauravg2630?tab=repositories)
+➡️ Explore more [GitHub Repositories »](https://github.com/Gauravg2630?tab=repositories)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gauravg2630&show_icons=true&theme=radical" alt="Gorav's GitHub Stats" />
@@ -71,15 +73,28 @@ Here are some projects from my growing repository collection:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravg2630&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+#### 📈 GitHub Contributions Heatmap
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Gauravg2630&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🌟 My Skills Radar
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/skills-radar.svg" alt="Skills Radar" />
+</p>
+
+*(You can generate radar charts using: [https://www.chartgo.com/](https://www.chartgo.com/) or [https://www.anychart.com/](https://www.anychart.com/), export SVG, and add here.)*
+
 ---
 
 ### 📬 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gorav-gumber-9319a2342/)
-- 🌐 [GitHub Profile](https://github.com/Gauravg2630)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gorav-gumber-9319a2342/)  
+- 🌐 [GitHub Profile](https://github.com/Gauravg2630)  
+- 🐦 [Twitter](https://twitter.com/your_twitter)  
 
 ---
 
-*⚡ Consistently learning, building and leveling up with every commit! Let’s connect and build something amazing.*
-
-
+*⚡ Consistently learning, building, and leveling up with every commit! Let’s connect and create something amazing together.*
