@@ -84,27 +84,13 @@ MongoDB: <img src="https://progress-bar.dev/82/?title=MongoDB" /><br>
 
 ---
 
-### 📦 Live Projects Dashboard
+### 📦 Live Projects Dashboard (Dynamic)
 
 <p align="center">
 <img src="https://gh-pinned-repos.egoist.dev/?username=Gauravg2630&theme=radical" alt="Pinned Repos Dashboard" />
 </p>
 
----
-
-### 🤖 Live AI/ML Projects Stats
-
-<p align="center">
-<img src="https://img.shields.io/github/stars/Gauravg2630/CodeAlpha_Projects?style=for-the-badge&logo=github&label=Stars" />
-<img src="https://img.shields.io/github/forks/Gauravg2630/CodeAlpha_Projects?style=for-the-badge&logo=github&label=Forks" />
-<img src="https://img.shields.io/github/last-commit/Gauravg2630/CodeAlpha_Projects?style=for-the-badge&logo=github&label=Last%20Update" />
-<br>
-<img src="https://img.shields.io/github/stars/Gauravg2630/React-ai-chat-bot-assistant?style=for-the-badge&logo=github&label=Stars" />
-<img src="https://img.shields.io/github/forks/Gauravg2630/React-ai-chat-bot-assistant?style=for-the-badge&logo=github&label=Forks" />
-<img src="https://img.shields.io/github/last-commit/Gauravg2630/React-ai-chat-bot-assistant?style=for-the-badge&logo=github&label=Last%20Update" />
-</p>
-
-> This section **updates dynamically** with stars, forks, and last commit info for your AI/ML projects.
+> This automatically shows your **top 6 pinned repositories** with stars and language. Every push/update is reflected automatically.
 
 ---
 
