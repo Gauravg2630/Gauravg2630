@@ -18,13 +18,14 @@
 ### 🧠 About Me
 
 - 👨‍💻 Passionate about **Full Stack Development** & **AI/ML Integration**  
-- 🔥 Currently on **#100DaysOfReact**, building **1 project/day** with React.js  
+- 🔥 Currently doing **#100DaysOfReact**, building **1 project/day** with React.js  
 - 💡 Exploring **automation, analytics, and interactive web solutions**  
 - 🌱 Always learning & leveling up coding skills  
+- 🎯 Goal: Build **efficient, user-friendly, AI-integrated web applications**  
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
 #### Languages & Frameworks
 <p align="center">
@@ -49,9 +50,9 @@
 
 ---
 
-### 🌟 Skills Progress Bars (Functional)
+### 🌟 Skills Progress Bars
 
-<p align="center">
+<!-- SKILLS_START -->
 HTML: ![HTML](https://img.shields.io/badge/HTML-95%25-brightgreen)  
 CSS: ![CSS](https://img.shields.io/badge/CSS-90%25-blue)  
 JavaScript: ![JS](https://img.shields.io/badge/JS-92%25-yellow)  
@@ -59,7 +60,7 @@ React: ![React](https://img.shields.io/badge/React-88%25-lightblue)
 Node.js: ![Node](https://img.shields.io/badge/Node-85%25-green)  
 Python: ![Python](https://img.shields.io/badge/Python-85%25-orange)  
 MongoDB: ![MongoDB](https://img.shields.io/badge/MongoDB-82%25-darkgreen)  
-</p>
+<!-- SKILLS_END -->
 
 ---
 
@@ -101,7 +102,7 @@ MongoDB: ![MongoDB](https://img.shields.io/badge/MongoDB-82%25-darkgreen)
 
 ---
 
-### 📦 Pinned Repositories (Functional)
+### 📦 Pinned Repositories
 
 <p align="center">
 <a href="https://github.com/Gauravg2630/React-admin-dashboard">
@@ -119,6 +120,7 @@ MongoDB: ![MongoDB](https://img.shields.io/badge/MongoDB-82%25-darkgreen)
 
 ### 🤖 Live AI/ML Projects Stats
 
+<!-- AI_PROJECTS_START -->
 <p align="center">
 <img src="https://img.shields.io/github/stars/Gauravg2630/CodeAlpha_Projects?style=for-the-badge&logo=github&label=Stars" />
 <img src="https://img.shields.io/github/forks/Gauravg2630/CodeAlpha_Projects?style=for-the-badge&logo=github&label=Forks" />
@@ -128,15 +130,19 @@ MongoDB: ![MongoDB](https://img.shields.io/badge/MongoDB-82%25-darkgreen)
 <img src="https://img.shields.io/github/forks/Gauravg2630/React-ai-chat-bot-assistant?style=for-the-badge&logo=github&label=Forks" />
 <img src="https://img.shields.io/github/last-commit/Gauravg2630/React-ai-chat-bot-assistant?style=for-the-badge&logo=github&label=Last%20Update" />
 </p>
+<!-- AI_PROJECTS_END -->
 
 ---
 
 ### 📬 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gorav-gumber-9319a2342/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Gorav Gumber-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://github.com/Gauravg2630" target="_blank"><img src="https://img.shields.io/badge/GitHub-Gauravg2630-black?style=for-the-badge&logo=github"></a>
-<a href="https://twitter.com/your_twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-@your_twitter-1DA1F2?style=for-the-badge&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/gorav-gumber-9319a2342/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Gorav Gumber-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://github.com/Gauravg2630" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Gauravg2630-black?style=for-the-badge&logo=github">
+</a>
 </p>
 
 ---
